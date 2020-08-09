@@ -1,12 +1,10 @@
-h1 {
-  color: crimson;
+body {
+  color: green;
 }
+h1,
 h2 {
   color: red;
 }
-/* CSS Rule */
-/* Selectors */
-/* Declaration Block*/
-/* Declaration */
-/* Property */
-/* Value */
+p {
+  color: gray;
+}

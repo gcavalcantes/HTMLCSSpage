@@ -2,3 +2,21 @@
   color: green;
   background: black;
 }
+
+#subheading {
+  color: red;
+  background: gray;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+  background: gray;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}

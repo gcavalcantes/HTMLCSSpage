@@ -20,3 +20,12 @@
 .lowercase {
   text-transform: lowercase;
 }
+
+div {
+  color: red;
+  background: gray;
+}
+
+span {
+  text-transform: uppercase;
+}

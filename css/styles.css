@@ -1,10 +1,4 @@
-body {
+#title {
   color: green;
-}
-h1,
-h2 {
-  color: red;
-}
-p {
-  color: gray;
+  background: black;
 }

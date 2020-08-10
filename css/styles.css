@@ -1,31 +1,11 @@
-#title {
-  color: green;
-  background: black;
-}
-
-#subheading {
+body {
   color: red;
-  background: gray;
-}
-
-.green {
-  color: green;
-}
-
-.red {
-  color: red;
-  background: gray;
-}
-
-.lowercase {
-  text-transform: lowercase;
 }
 
 div {
-  color: red;
-  background: gray;
+  color: blue;
 }
 
-span {
-  text-transform: uppercase;
+h2 {
+  color: green;
 }

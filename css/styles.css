@@ -1,11 +1,12 @@
-body {
-  color: red;
+/* Color properties */
+/* Color Background-color */
+
+#first {
+  color: lightslategray;
+  background-color: chocolate;
 }
 
-div {
-  color: blue;
-}
-
-h2 {
-  color: green;
+#second {
+  color: crimson;
+  background: yellow;
 }

@@ -10,3 +10,11 @@
   color: crimson;
   background: yellow;
 }
+
+#three {
+  color: rgb(100, 100, 100);
+}
+
+body {
+  background: rgb(100, 34, 210);
+}

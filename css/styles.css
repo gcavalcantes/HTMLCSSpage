@@ -2,8 +2,8 @@
 /* Color Background-color */
 
 #first {
-  color: lightslategray;
-  background-color: chocolate;
+  color: rgb(100, 123, 56);
+  background-color: rgba(0, 0, 0, 0.1);
 }
 
 #second {
@@ -16,5 +16,5 @@
 }
 
 body {
-  background: rgb(100, 34, 210);
+  background: rgba(55, 210, 34, 0.5);
 }
